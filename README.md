@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm OMKAR</h1>
+<h1 align="center">Hi there, I'm OMKAR</h1>
 <h3 align="center">A passionate Data and Cloud Engineer from India</h3>
 
 - 🔭 I’m currently working on **ZoneSecure Project**
