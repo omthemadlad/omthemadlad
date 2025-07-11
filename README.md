@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Databricks**
 
-- 💬 Ask me about **AWS, Azure, PySpark, Kafka**
+- 💬 Ask me about **Data Pipelines and Streaming Data**
 
 - 📫 How to reach me **omkaar.work@gmail.com**
 
