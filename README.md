@@ -1,5 +1,12 @@
 # 💫 About Me:
-ZoneSecure
+
+- 🔭 I’m currently working on **ZoneSecure Project**
+
+- 🌱 I’m currently learning **Databricks**
+
+- 💬 Ask me about **AWS, Azure, PySpark, Kafka**
+
+- 📫 How to reach me **omkaar.work@gmail.com**
 
 
 ## 🌐 Socials:
